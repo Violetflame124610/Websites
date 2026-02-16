@@ -1,53 +1,62 @@
 # 🌐 Websites
 
-This repository contains all of my website development projects.  
-It includes frontend designs, backend-powered applications, UI experiments, and full-stack implementations built for learning and real-world use.
+![Repo Size](https://img.shields.io/github/repo-size/Violetflame124610/websites?color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/Violetflame124610/websites)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+A collection of all my website development projects.  
+This repository includes frontend designs, backend applications, UI experiments, and full-stack implementations built for learning and real-world use.
 
 ---
 
-## 📂 What You’ll Find Here
+## 📂 What’s Inside
 
-- 💻 Static websites (HTML, CSS, JavaScript)
-- ⚙️ Backend projects (Flask, SQLite, etc.)
-- 🎨 UI/UX design experiments
-- 📱 Responsive web designs
-- 🔐 Authentication systems
-- 🌍 Full-stack web applications
+This repository contains:
+
+- 💻 Static Websites (HTML, CSS, JavaScript)
+- ⚙️ Backend Projects (Flask, SQLite)
+- 🎨 UI/UX Experiments
+- 📱 Responsive Web Designs
+- 🔐 Authentication Systems
+- 🌍 Full-Stack Applications
+
+Each project is organized in its own folder.
 
 ---
 
 ## 🛠 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Python (Flask)
-- SQLite
-- Git & GitHub
+- HTML5  
+- CSS3  
+- JavaScript  
+- Python (Flask)  
+- SQLite  
+- Git & GitHub  
 
 ---
 
-## 🎯 Purpose of This Repository
+## 🎯 Purpose
 
-This repository acts as:
-- A central place to store all my website projects
-- A showcase of my web development journey
-- A space to experiment and improve my skills
+This repository serves as:
+
+- A central hub for all my website projects  
+- A showcase of my web development journey  
+- A space to experiment, build, and improve  
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Plans
 
-- Adding more full-stack projects
-- Improving UI/UX designs
-- Implementing modern frameworks
-- Making projects more scalable and optimized
+- Add more advanced full-stack projects  
+- Improve UI/UX consistency  
+- Explore modern frameworks  
+- Optimize performance and scalability  
 
 ---
 
 ## 👨‍💻 Author
 
-Developed and maintained by **Dhruvagouda Patil**
+**Dhruvagouda Patil**
 
 ---
 
